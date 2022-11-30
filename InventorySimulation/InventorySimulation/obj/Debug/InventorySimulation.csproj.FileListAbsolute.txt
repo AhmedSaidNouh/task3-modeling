@@ -78,3 +78,5 @@ D:\computer scince\الكلية\الفرقه الرابعة\الترم الاو�
 D:\computer scince\الكلية\الفرقه الرابعة\الترم الاول\sumolation\task3\task3-modeling\InventorySimulation\InventorySimulation\obj\Debug\InventorySimulation.csproj.CopyComplete
 D:\computer scince\الكلية\الفرقه الرابعة\الترم الاول\sumolation\task3\task3-modeling\InventorySimulation\InventorySimulation\obj\Debug\InventorySimulation.exe
 D:\computer scince\الكلية\الفرقه الرابعة\الترم الاول\sumolation\task3\task3-modeling\InventorySimulation\InventorySimulation\obj\Debug\InventorySimulation.pdb
+D:\computer scince\الكلية\الفرقه الرابعة\الترم الاول\sumolation\task3\task3-modeling\InventorySimulation\InventorySimulation\obj\Debug\InventorySimulation.Form1.resources
+D:\computer scince\الكلية\الفرقه الرابعة\الترم الاول\sumolation\task3\task3-modeling\InventorySimulation\InventorySimulation\obj\Debug\InventorySimulation.Form2.resources
