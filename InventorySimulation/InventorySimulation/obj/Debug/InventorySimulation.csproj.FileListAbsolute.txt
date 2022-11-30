@@ -66,3 +66,15 @@ C:\Users\Osama\Desktop\Task 4\[Students]_Template - Copy\InventorySimulation\Inv
 C:\Users\Osama\Desktop\Task 4\[Students]_Template\InventorySimulation\InventorySimulation\bin\Debug\InventorySimulation.exe.config
 C:\Users\Osama\Desktop\Task 4\[Students]_Template\InventorySimulation\InventorySimulation\obj\Debug\InventorySimulation.exe
 C:\Users\Osama\Desktop\Task 4\[Students]_Template\InventorySimulation\InventorySimulation\obj\Debug\InventorySimulation.pdb
+D:\computer scince\الكلية\الفرقه الرابعة\الترم الاول\sumolation\task3\task3-modeling\InventorySimulation\InventorySimulation\bin\Debug\InventorySimulation.exe.config
+D:\computer scince\الكلية\الفرقه الرابعة\الترم الاول\sumolation\task3\task3-modeling\InventorySimulation\InventorySimulation\bin\Debug\InventorySimulation.exe
+D:\computer scince\الكلية\الفرقه الرابعة\الترم الاول\sumolation\task3\task3-modeling\InventorySimulation\InventorySimulation\bin\Debug\InventorySimulation.pdb
+D:\computer scince\الكلية\الفرقه الرابعة\الترم الاول\sumolation\task3\task3-modeling\InventorySimulation\InventorySimulation\bin\Debug\InventoryModels.dll
+D:\computer scince\الكلية\الفرقه الرابعة\الترم الاول\sumolation\task3\task3-modeling\InventorySimulation\InventorySimulation\bin\Debug\InventoryModels.pdb
+D:\computer scince\الكلية\الفرقه الرابعة\الترم الاول\sumolation\task3\task3-modeling\InventorySimulation\InventorySimulation\obj\Debug\InventorySimulation.csproj.AssemblyReference.cache
+D:\computer scince\الكلية\الفرقه الرابعة\الترم الاول\sumolation\task3\task3-modeling\InventorySimulation\InventorySimulation\obj\Debug\InventorySimulation.Properties.Resources.resources
+D:\computer scince\الكلية\الفرقه الرابعة\الترم الاول\sumolation\task3\task3-modeling\InventorySimulation\InventorySimulation\obj\Debug\InventorySimulation.csproj.GenerateResource.cache
+D:\computer scince\الكلية\الفرقه الرابعة\الترم الاول\sumolation\task3\task3-modeling\InventorySimulation\InventorySimulation\obj\Debug\InventorySimulation.csproj.CoreCompileInputs.cache
+D:\computer scince\الكلية\الفرقه الرابعة\الترم الاول\sumolation\task3\task3-modeling\InventorySimulation\InventorySimulation\obj\Debug\InventorySimulation.csproj.CopyComplete
+D:\computer scince\الكلية\الفرقه الرابعة\الترم الاول\sumolation\task3\task3-modeling\InventorySimulation\InventorySimulation\obj\Debug\InventorySimulation.exe
+D:\computer scince\الكلية\الفرقه الرابعة\الترم الاول\sumolation\task3\task3-modeling\InventorySimulation\InventorySimulation\obj\Debug\InventorySimulation.pdb

@@ -20,3 +20,9 @@ C:\Users\Osama\Desktop\Task 4\[Students]_Template - Copy\InventorySimulation\Inv
 C:\Users\Osama\Desktop\Task 4\[Students]_Template - Copy\InventorySimulation\InventoryModels\bin\Debug\InventoryModels.pdb
 C:\Users\Osama\Desktop\Task 4\[Students]_Template - Copy\InventorySimulation\InventoryModels\obj\Debug\InventoryModels.dll
 C:\Users\Osama\Desktop\Task 4\[Students]_Template - Copy\InventorySimulation\InventoryModels\obj\Debug\InventoryModels.pdb
+D:\computer scince\الكلية\الفرقه الرابعة\الترم الاول\sumolation\task3\task3-modeling\InventorySimulation\InventoryModels\bin\Debug\InventoryModels.dll
+D:\computer scince\الكلية\الفرقه الرابعة\الترم الاول\sumolation\task3\task3-modeling\InventorySimulation\InventoryModels\bin\Debug\InventoryModels.pdb
+D:\computer scince\الكلية\الفرقه الرابعة\الترم الاول\sumolation\task3\task3-modeling\InventorySimulation\InventoryModels\obj\Debug\InventoryModels.csproj.AssemblyReference.cache
+D:\computer scince\الكلية\الفرقه الرابعة\الترم الاول\sumolation\task3\task3-modeling\InventorySimulation\InventoryModels\obj\Debug\InventoryModels.csproj.CoreCompileInputs.cache
+D:\computer scince\الكلية\الفرقه الرابعة\الترم الاول\sumolation\task3\task3-modeling\InventorySimulation\InventoryModels\obj\Debug\InventoryModels.dll
+D:\computer scince\الكلية\الفرقه الرابعة\الترم الاول\sumolation\task3\task3-modeling\InventorySimulation\InventoryModels\obj\Debug\InventoryModels.pdb
